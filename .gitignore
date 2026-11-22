@@ -1,0 +1,13 @@
+# Credenciales y entorno
+.env
+.venv/
+
+# Python
+__pycache__/
+.pytest_cache/
+
+# Base de datos local
+data/
+
+# Arquitecturas generadas
+output/
